@@ -4,3 +4,4 @@ RemoteSystemsTempFiles/*
 **/bin/**
 .metadata
 **/.settings/*
+/.recommenders/
